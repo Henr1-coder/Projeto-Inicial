@@ -1,4 +1,3 @@
-![Logo](https://i.imgur.com/q1AZtrY.png)
 # Projeto Inicial
 
 **Projeto que fiz no discover pela rocketseat.**
