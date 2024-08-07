@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background:url(./assets/17471.webp) no-repeat top center/cover;
+}
+
+body {
+    /*Fonte família da escrita da página*/
+    font-family: "Inter", sans-serif;
+    color: black;
+}
+
+#container {
+    /*Container é a caixa onde vamos mexer*/
+    width: 360px;
+    margin: 56px auto 0px;
+}
+
+#profile {
+    /* Text align é usado para direcionar o texto para o meio seja ele center */
+    text-align: center;
+    padding: 24px;
+}
+
+#profile img {
+    width: 112px;
+}
+
+#profile p {
+    /* Usado para arrumar a fonte da letra e a margem do topo com a imagem */
+    font-weight: 500;
+    line-height: 24px;
+    margin-top: 8px;
+}
